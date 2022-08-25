@@ -1,0 +1,53 @@
+body{
+    height: 1024px;
+    width: 1440px;
+    left: 703px;
+    top: 377px;
+    border-radius: 8px;
+    background-color: #c8eef5;
+    display: flex;
+    justify-content: center;
+}
+
+.info{
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+}
+
+h1{
+    justify-content: center;
+    display: flex;
+    font-family:'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 32px
+}
+    
+h2{
+    justify-content: center;
+    display: flex;
+    font-family:'Lato';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 32px
+    
+}
+
+h3{
+    justify-content: center;
+    display: flex;
+    font-family:'Lato';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 20px;
+    color: rgb(78, 205, 243);
+    line-height: 32px
+    
+}
+
+.foto-gato{
+    size: 50px;
+}
